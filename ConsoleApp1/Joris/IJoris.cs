@@ -9,5 +9,6 @@ namespace ConsoleApp1.Joris
     public interface IJoris
     {
         public void DireBonjour();
+        public void DireAuRevoir();
     }
 }
