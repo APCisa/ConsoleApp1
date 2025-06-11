@@ -8,3 +8,4 @@ joris.DireBonjour();
 joris.DireAuRevoir();
 
 Console.WriteLine("Hello, Corentin!"); // test///
+Console.WriteLine("Bonjour, Corentin!");
