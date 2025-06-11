@@ -8,6 +8,5 @@ namespace ConsoleApp1
 {
     internal class Zb1
     {
-        //test
     }
 }
