@@ -7,5 +7,7 @@ IJoris joris = new Joris();
 joris.DireBonjour();
 joris.DireAuRevoir();
 
+IJoris corentin = new Corentin();
+
 Console.WriteLine("Hello, Corentin!"); // test///
 Console.WriteLine("Bonjour, Corentin!");
