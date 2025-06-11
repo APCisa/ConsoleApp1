@@ -10,7 +10,7 @@ namespace ConsoleApp1.Joris
     {
         public void DireBonjour()
         {
-            Console.WriteLine("Bonjour, je suis Joris !");
+            Console.WriteLine("Bonjour, je suis Joris après un merge!");
         }
     }
 }
