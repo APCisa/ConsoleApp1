@@ -1,2 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using ConsoleApp1.Joris;
+
+Console.WriteLine("Bonjour !");
+
+IJoris joris = new Joris();
+joris.DireBonjour();
+Console.WriteLine("Hello, Corentin!"); // test///
