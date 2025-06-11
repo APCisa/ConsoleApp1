@@ -12,5 +12,10 @@ namespace ConsoleApp1.Joris
         {
             Console.WriteLine("Bonjour, je suis Joris !");
         }
+
+        public void DireAuRevoir()
+        {
+            Console.WriteLine("Je suis Joris, au revoir !");
+        }
     }
 }
