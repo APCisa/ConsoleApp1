@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1.Joris
+{
+    public class Joris
+    {
+        public void DireBonjour()
+        {
+            Console.WriteLine("Bonjour, je suis Joris !");
+        }
+    }
+}
