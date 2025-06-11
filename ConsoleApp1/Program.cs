@@ -5,4 +5,4 @@ Console.WriteLine("Bonjour !");
 
 IJoris joris = new Joris();
 joris.DireBonjour();
-Console.WriteLine("Hello, Corentin!"); // test///
+Console.WriteLine("Bonjour, Corentin!");
