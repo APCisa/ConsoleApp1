@@ -3,4 +3,5 @@ using ConsoleApp1.Joris;
 
 Console.WriteLine("Hello, World!");
 
-new Joris().DireBonjour();
+IJoris joris = new Joris();
+joris.DireBonjour();
